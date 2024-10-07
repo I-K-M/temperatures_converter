@@ -20,10 +20,10 @@
 <ol>
     <li>Make sure Go is installed on your machine. You can download it from <a href="https://golang.org/dl/">https://golang.org/dl/</a>.</li>
     <li>Clone this repository:
-        <pre><code>git clone https://github.com/yourusername/repository-name.git</code></pre>
+        <pre><code>git clone https://github.com/I-K-M/temperatures_converter.git</code></pre>
     </li>
     <li>Navigate to the project directory:
-        <pre><code>cd repository-name</code></pre>
+        <pre><code>cd temperatures_converter</code></pre>
     </li>
     <li>Run the program:
         <pre><code>go run main.go</code></pre>
